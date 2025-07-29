@@ -1,4 +1,4 @@
-# Your Name
+# Azmain Adeeb
 **Software Developer | Python • AI • Computer Vision**  
 📍 Your City, Country | 📧 your.email@example.com | ☎️ +123-456-7890  
 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 💻 [GitHub](https://github.com/yourusername) | 🌐 Portfolio (optional)
