@@ -1,7 +1,7 @@
 # Azmain Adeeb
 **Software Developer | Python • AI • Computer Vision**  
-📍 Your City, Country | 📧 your.email@example.com | ☎️ +123-456-7890  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 💻 [GitHub](https://github.com/yourusername) | 🌐 Portfolio (optional)
+📍 Dhaka, Bangladesh | 📧 azmainadeeb@gmail.com | ☎️ +8801580800175  
+💼 [LinkedIn]((https://www.linkedin.com/in/azmain-adeeb-5b134230a/)) | 💻 [GitHub](https://github.com/Azmaininqiad) 
 
 ---
 
@@ -24,7 +24,8 @@ Enthusiastic software developer with a strong foundation in Python, AI agent dev
 ## 💻 Projects
 
 ### 🧠 AI Agent for Markdown Content Generation
-**Repo**: [github.com/yourusername/ai-markdown-agent](https://github.com/yourusername/ai-markdown-agent)  
+**Repo**: https://github.com/Azmaininqiad/Classroom
+
 Developed an autonomous agent using Gemini + Google Custom Search that generates `.md` files with text and images. Used CrewAI for workflow orchestration.
 
 - Integrated OpenRouter API and Google CSE for real-time search
