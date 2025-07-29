@@ -1,16 +1,9 @@
 # Azmain Adeeb
 **Software Developer | Python • AI • Computer Vision**  
 📍 Dhaka, Bangladesh | 📧 azmainadeeb@gmail.com | ☎️ +8801580800175  
-💼 [LinkedIn]((https://www.linkedin.com/in/azmain-adeeb-5b134230a/)) | 💻 [GitHub](https://github.com/Azmaininqiad) 
+💼 [LinkedIn](https://www.linkedin.com/in/azmain-adeeb-5b134230a/) | 💻 [GitHub](https://github.com/Azmaininqiad) 
 
 ---
-
-## 🧑‍💻 Summary
-
-Enthusiastic software developer with a strong foundation in Python, AI agent development, and computer vision. Experienced in building AI-integrated systems, deploying machine learning models, and contributing to open-source projects on GitHub. Passionate about solving real-world problems using cutting-edge technologies.
-
----
-
 ## 🔧 Skills
 
 - **Languages**: Python, C++, JavaScript, Bash
@@ -21,49 +14,53 @@ Enthusiastic software developer with a strong foundation in Python, AI agent dev
 
 ---
 
-## 💻 Projects
+## 🚀 Projects
 
-### 🧠 AI Agent for Markdown Content Generation
-**Repo**: https://github.com/Azmaininqiad/Classroom
+### 🎓 AI-Assisted Classroom App  
+[🔗 GitHub Repository](https://github.com/Azmaininqiad/Classroom)  
+[📺 Demo Video](https://youtu.be/gp6qIc53_kM?si=PdbFyx7rq4FMMbO1)
 
-Developed an autonomous agent using Gemini + Google Custom Search that generates `.md` files with text and images. Used CrewAI for workflow orchestration.
+> “Classroom” is a next-generation virtual classroom platform designed to enhance online education through AI, collaboration, and modern web technologies.
 
-- Integrated OpenRouter API and Google CSE for real-time search
-- Parsed and embedded images contextually in markdown content
-- Automated content publishing pipeline
-
----
-
-### 👁️‍🗨️ Face and Body Blurring Using Computer Vision
-**Repo**: [github.com/yourusername/face-body-blur](https://github.com/yourusername/face-body-blur)  
-Implemented real-time person segmentation using Mediapipe, YOLOv8, and TFLite models to blur individuals in live video streams based on gender classification.
-
-- Used TensorFlow Lite models for on-device inference
-- Applied body segmentation with SAM2 models
-- Achieved high frame-rate blurring on webcam feed
+**Key Features:**
+- Interactive course and student management  
+- AI-powered quiz generation  
+- Automatic exam script checking  
+- Secure and user-friendly environment  
 
 ---
 
-### 🧪 AI-Powered Terminal Command Agent
-**Repo**: [github.com/yourusername/natural-command-runner](https://github.com/yourusername/natural-command-runner)  
-Created a natural-language-to-command execution tool using Hugging Face models and permission-aware automation.
+### 🤖 AI Agent for Educational Course Generation  
+[🔗 GitHub Repository](https://github.com/Azmaininqiad/CourseAI)
 
-- Transforms instructions into secure terminal commands
-- Provides confirmation prompts before execution
-- Integrated with Gemini Flash via `google.generativeai`
+> Developed an autonomous agent using OpenRouter + Google Custom Search that generates educational courses enriched with text, images, and YouTube videos. Used CrewAI for workflow orchestration.
 
----
-
-## 🧠 Education
-
-**Currently studying Bsc. in Electrical and Electronics Engineering  
-Islamic University of Technology, Gazipur, Dhaka, Bangladesh  
-
+**Highlights:**
+- Integrated **OpenRouter API** and **Google CSE** for real-time search  
+- Contextual image parsing and embedding in markdown  
+- Automated content generation and publishing pipeline  
 
 ---
 
+### 🧍‍♂️ Face and Body Blurring Using Computer Vision  
+[🔗 GitHub Repository](https://github.com/Azmaininqiad/PersonBlurusingMediapipe)
 
-## 🌐 Languages
+> Real-time blurring of individuals in video streams based on gender classification using Mediapipe, YOLOv8, and TFLite models.
 
-- English (Fluent)
-- Bengali (Native)
+**Tech Stack:**
+- On-device inference with **TensorFlow Lite**  
+- **Body segmentation** using Meta's **SAM2**  
+- High frame-rate performance on live webcam feeds  
+
+---
+
+### 🌐 AI-Powered Browser Automation Agent  
+[🔗 GitHub Repository](https://github.com/Azmaininqiad/Selenium)
+
+> Built before the rise of LLM agents, this tool uses Python and Selenium to automate browser tasks through terminal input.
+
+**Key Capabilities:**
+- Converts instructions into secure terminal commands  
+- Seeks user confirmation before execution  
+- Integrated with **Gemini Flash** (`google.generativeai`)  
+- Searches Google and extracts relevant information automatically  
